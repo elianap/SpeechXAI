@@ -1,5 +1,7 @@
 # SpeechXAI 
 
+[![official paper](https://img.shields.io/badge/paper-EACL%202024-b31b1b.svg)](https://aclanthology.org/2024.eacl-long.136/)
+
 We propose a novel approach to explain speech classification models 🗣️💬
 
 We provide two types of insights. 🚀
